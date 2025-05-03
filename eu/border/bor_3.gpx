@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Laachir IT-CH_Border</name>
+  </metadata>
+  <trk>
+    <name>نقطة عبور إيطاليا سويسرا</name>
+    <trkseg>
+      <trkpt lat="45.818773" lon="8.995255">
+      </trkpt>
+      <trkpt lat="45.818813" lon="8.995144">
+      </trkpt>
+      <trkpt lat="45.819015" lon="8.994791">
+      </trkpt>
+      <trkpt lat="45.819178" lon="8.994633">
+      </trkpt>
+      <trkpt lat="45.819246" lon="8.994635">
+      </trkpt>
+      <trkpt lat="45.819360" lon="8.994697">
+      </trkpt>
+      <trkpt lat="45.819626" lon="8.995005">
+      </trkpt>
+      <trkpt lat="45.819739" lon="8.995204">
+      </trkpt>
+      <trkpt lat="45.819850" lon="8.995292">
+      </trkpt>
+      <trkpt lat="45.819986" lon="8.995300">
+      </trkpt>
+      <trkpt lat="45.820037" lon="8.995282">
+      </trkpt>
+      <trkpt lat="45.820095" lon="8.995212">
+      </trkpt>
+      <trkpt lat="45.820120" lon="8.995068">
+      </trkpt>
+      <trkpt lat="45.820102" lon="8.994963">
+      </trkpt>
+      <trkpt lat="45.820291" lon="8.995083">
+      </trkpt>
+      <trkpt lat="45.820392" lon="8.995239">
+      </trkpt>
+      <trkpt lat="45.820497" lon="8.995281">
+      </trkpt>
+      <trkpt lat="45.820543" lon="8.995356">
+      </trkpt>
+      <trkpt lat="45.820577" lon="8.995542">
+      </trkpt>
+      <trkpt lat="45.820620" lon="8.995614">
+      </trkpt>
+      <trkpt lat="45.820711" lon="8.995663">
+      </trkpt>
+      <trkpt lat="45.820777" lon="8.995660">
+      </trkpt>
+      <trkpt lat="45.821013" lon="8.995474">
+      </trkpt>
+      <trkpt lat="45.821196" lon="8.995501">
+      </trkpt>
+      <trkpt lat="45.821282" lon="8.995571">
+      </trkpt>
+      <trkpt lat="45.821366" lon="8.995804">
+      </trkpt>
+      <trkpt lat="45.821512" lon="8.995939">
+      </trkpt>
+      <trkpt lat="45.821584" lon="8.996061">
+      </trkpt>
+      <trkpt lat="45.821638" lon="8.996186">
+      </trkpt>
+      <trkpt lat="45.821696" lon="8.996416">
+      </trkpt>
+      <trkpt lat="45.821894" lon="8.996543">
+      </trkpt>
+      <trkpt lat="45.822039" lon="8.996561">
+      </trkpt>
+      <trkpt lat="45.822108" lon="8.996622">
+      </trkpt>
+      <trkpt lat="45.822259" lon="8.996848">
+      </trkpt>
+      <trkpt lat="45.822394" lon="8.996964">
+      </trkpt>
+      <trkpt lat="45.822402" lon="8.997117">
+      </trkpt>
+      <trkpt lat="45.822413" lon="8.997187">
+      </trkpt>
+      <trkpt lat="45.822429" lon="8.997272">
+      </trkpt>
+      <trkpt lat="45.822529" lon="8.997464">
+      </trkpt>
+      <trkpt lat="45.822820" lon="8.997536">
+      </trkpt>
+      <trkpt lat="45.822943" lon="8.997685">
+      </trkpt>
+      <trkpt lat="45.823168" lon="8.998034">
+      </trkpt>
+      <trkpt lat="45.823337" lon="8.998295">
+      </trkpt>
+      <trkpt lat="45.823562" lon="8.998554">
+      </trkpt>
+      <trkpt lat="45.823942" lon="8.998821">
+      </trkpt>
+      <trkpt lat="45.824063" lon="8.998850">
+      </trkpt>
+      <trkpt lat="45.824257" lon="8.998840">
+      </trkpt>
+      <trkpt lat="45.825024" lon="8.999027">
+      </trkpt>
+      <trkpt lat="45.825218" lon="8.999221">
+      </trkpt>
+      <trkpt lat="45.825541" lon="8.999591">
+      </trkpt>
+      <trkpt lat="45.825620" lon="8.999680">
+      </trkpt>
+      <trkpt lat="45.825742" lon="8.999805">
+      </trkpt>
+      <trkpt lat="45.825851" lon="8.999887">
+      </trkpt>
+      <trkpt lat="45.826398" lon="8.999885">
+      </trkpt>
+      <trkpt lat="45.826572" lon="8.999913">
+      </trkpt>
+      <trkpt lat="45.826834" lon="9.000090">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
